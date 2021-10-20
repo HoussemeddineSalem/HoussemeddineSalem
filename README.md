@@ -5,7 +5,6 @@ I am a Full-Stack web developer ( [See my portfolio](https://houssemsalem.heroku
 **SKILLS**
 <p>  
     <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7B93E?style=flat-square&logo=Javascript&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/-Python-F7B93E?style=flat-square&logo=Javascript&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-8DD6F9?style=flat-square&logo=react&logoColor=white" />
     <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
@@ -20,6 +19,7 @@ I am a Full-Stack web developer ( [See my portfolio](https://houssemsalem.heroku
     <img alt="Api" src="https://img.shields.io/badge/-API-F7B93E?style=flat-square&logo=api&logoColor=white" />  
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/-Python-43853d?style=flat-square&logo=Python&logoColor=white" />
 </p>
 
 **NOW**
