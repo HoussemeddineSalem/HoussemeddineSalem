@@ -49,7 +49,8 @@ I am a Full-Stack web developer ( [See my portfolio](https://houssemsalem.heroku
   - 🔭 I’m currently working on an application using reactjs, mongodb, expressjs and nodejs 
   - 🌱 I’m currently learning flask with python 
  
- [![HoussemeddineSalem's github stats](https://github-readme-stats.vercel.app/api?username=HoussemeddineSalem&show_icons=true&theme=buefy)](https://github.com/HoussemeddineSalem/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoussemeddineSalem&show_icons=true&theme=buefy&layout=compact)](https://github.com/HoussemeddineSalem/github-readme-stats)
+![HoussemeddineSalem's github stats](https://github-readme-stats.vercel.app/api?username=HoussemeddineSalem&show_icons=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoussemeddineSalem&show_icons=true&theme=buefy&layout=compact)](https://github.com/HoussemeddineSalem/github-readme-stats)
   
  **Contact me via LinkedIn**
  
